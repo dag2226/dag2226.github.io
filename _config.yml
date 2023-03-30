@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-octicons
+
+title: Daniel Greco's homepage
+description: Personal website WIP!
