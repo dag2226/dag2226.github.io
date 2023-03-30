@@ -8,8 +8,6 @@ I'm Daniel, a CS student at Columbia University SEAS '23.
 - 🔭 I'm an incoming SDE at Amazon SCOT.
 - 🌱 I’m currently working on setting up a web scraping library for my Open Source Development course. &rarr; [![easierscrape](https://img.shields.io/badge/repo-easierscrape-blue)](https://github.com/dag2226/easierscrape)
 - ✨ I am interested in back-end and full stack development.
- 
- ## Projects
 
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 {% for repository in orderedRepos %}
